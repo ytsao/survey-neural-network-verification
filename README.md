@@ -1,5 +1,6 @@
 # survey-neural-network-verification
-Summary of papers about neural network verificcation.
+
+This repository aims to provide a summary of papers about neural network verification in Obsidian notebook.
 
 ```bash
 └── vnn
